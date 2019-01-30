@@ -1,3 +1,6 @@
-# empty program
+"""This program is to traverse in a string"""
 
-print("nancy")
+import os
+path = os.getcwd()
+print("Path:",path)
+print("Reverse:", Path[::-1]
